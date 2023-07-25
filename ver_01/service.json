@@ -35,35 +35,25 @@
       "type": "color",
       "description": "프리미엄 식품관"
     },
-    "ssgfoodmarket_primary2": {
+    "foodmarket_primary2": {
       "value": "#9E2A2B",
       "type": "color",
-      "description": "SSG푸드마켓, 프리미엄 식품관"
+      "description": "프리미엄 식품관"
     },
-    "ssgfoodmarket_primary3": {
+    "foodmarket_primary3": {
       "value": "#512F2E",
       "type": "color",
-      "description": "SSG푸드마켓, 프리미엄 식품관"
+      "description": "프리미엄 식품관"
     },
-    "ssgfoodmarket_secondary1": {
+    "foodmarket_secondary1": {
       "value": "#D6D2C4",
       "type": "color",
-      "description": "SSG푸드마켓, 프리미엄 식품관"
+      "description": "프리미엄 식품관"
     },
-    "ssgfoodmarket_secondary2": {
+    "foodmarket_secondary2": {
       "value": "#C0A392",
       "type": "color",
-      "description": "SSG푸드마켓, 프리미엄 식품관"
-    },
-    "mondaymoon_primary": {
-      "value": "#3e584b",
-      "type": "color",
-      "description": "먼데이문"
-    },
-    "mondaymoon_secondary": {
-      "value": "#b69d81",
-      "type": "color",
-      "description": "먼데이문"
+      "description": "프리미엄 식품관"
     },
     "obanjang_primary": {
       "value": "#ffcf02",
@@ -74,6 +64,16 @@
       "value": "#ff4c3c",
       "type": "color",
       "description": "해피라운지"
+    },
+    "mondaymoon_primary": {
+      "value": "#3e584b",
+      "type": "color",
+      "description": "먼데이문"
+    },
+    "mondaymoon_secondary": {
+      "value": "#b69d81",
+      "type": "color",
+      "description": "먼데이문"
     },
     "ssgpay_primary": {
       "value": "#E24F39",
