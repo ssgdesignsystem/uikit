@@ -1,7 +1,7 @@
 {
   "ssg": {
     "button": {
-      "solid_button": {
+      "solid": {
         "primary": {
           "01": {
             "bg": {
