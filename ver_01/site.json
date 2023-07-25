@@ -48,7 +48,7 @@
     "chicor_primary": {
       "value": "linear-gradient(180deg, #e9450c 0%, #ffd700 50%, #df0082 100%)",
       "type": "color",
-      "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      "description": "- APP : 그라데이션 컬러 정의가 불가로 이미지 적용\n- 공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
     },
     "chicor_secondary": {
       "value": "#000000",
