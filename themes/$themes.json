@@ -836,10 +836,14 @@
       "01_ssg.content.headline.1": "S:6fe3ebaafec0a2e28ec8fe8d136747230fc977ce,"
     },
     "selectedTokenSets": {
-      "04_delivery": "enabled",
       "ssg/default": "enabled",
       "ssg/button": "enabled",
-      "ssg/content": "enabled"
+      "payment": "disabled",
+      "promotion": "disabled",
+      "service": "disabled",
+      "delivery": "enabled",
+      "site": "disabled",
+      "emart/default": "disabled"
     },
     "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
@@ -1338,8 +1342,12 @@
       "default.semantic.warning": "S:9a1d2afa25e5ae207e75f1489d1124f38cf143b3,"
     },
     "selectedTokenSets": {
-      "02_emart/default": "enabled",
-      "04_delivery": "enabled"
+      "payment": "disabled",
+      "promotion": "disabled",
+      "service": "disabled",
+      "delivery": "enabled",
+      "site": "disabled",
+      "emart/default": "enabled"
     },
     "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
@@ -1433,10 +1441,14 @@
     "name": "shinsegaemall",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "03_site": "enabled",
-      "04_delivery": "enabled",
       "ssg/default": "enabled",
-      "ssg/button": "enabled"
+      "ssg/button": "enabled",
+      "payment": "disabled",
+      "promotion": "disabled",
+      "service": "disabled",
+      "delivery": "enabled",
+      "site": "enabled",
+      "emart/default": "disabled"
     },
     "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
@@ -1706,10 +1718,14 @@
     "name": "department",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "03_site": "enabled",
-      "04_delivery": "enabled",
       "ssg/default": "enabled",
-      "ssg/button": "enabled"
+      "ssg/button": "enabled",
+      "payment": "disabled",
+      "promotion": "disabled",
+      "service": "disabled",
+      "delivery": "enabled",
+      "site": "enabled",
+      "emart/default": "disabled"
     },
     "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
@@ -1979,9 +1995,14 @@
     "name": "universeclub",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "05_service": "enabled",
       "ssg/default": "enabled",
-      "ssg/button": "enabled"
+      "ssg/button": "enabled",
+      "payment": "disabled",
+      "promotion": "disabled",
+      "service": "enabled",
+      "delivery": "disabled",
+      "site": "disabled",
+      "emart/default": "disabled"
     },
     "group": "service",
     "$figmaCollectionId": "VariableCollectionId:13165:58758",
@@ -2228,9 +2249,14 @@
     "name": "present",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "05_service": "enabled",
       "ssg/default": "enabled",
-      "ssg/button": "enabled"
+      "ssg/button": "enabled",
+      "payment": "disabled",
+      "promotion": "disabled",
+      "service": "enabled",
+      "delivery": "disabled",
+      "site": "disabled",
+      "emart/default": "disabled"
     },
     "group": "service",
     "$figmaCollectionId": "VariableCollectionId:13165:58758",

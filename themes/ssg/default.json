@@ -3,7 +3,7 @@
     "brand": {
       "value": "linear-gradient(270deg, #be3ffa 0%, #f43479 40.65%, #f43479 58.41%, #fc6c40 100%)",
       "type": "color",
-      "description": "- 상세 옵션바 버튼\n- 앱바 터치 색상 (영역 터치 시 잠깐 노출)"
+      "description": "- APP : 이미지\n- 상세 옵션바 버튼\n- 앱바 터치 색상 (영역 터치 시 잠깐 노출)"
     },
     "accent": {
       "primary_light": {
@@ -37,7 +37,7 @@
       "secondary_gradient": {
         "value": "linear-gradient(90deg, #BE3FFA 0%, #8C0BF4 59.37%, #8807F3 100%)",
         "type": "color",
-        "description": "- 공통 영역의 툴팁\n- 프로그레스 바"
+        "description": "- 공통 영역의 툴팁\n- 프로그레스 바\n- APP : 이미지"
       }
     },
     "netural": {
