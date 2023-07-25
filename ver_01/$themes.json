@@ -1,5 +1,21 @@
 [
   {
+    "id": "db36dceeb77eef4fb2ee0415c566385d7d9616f4",
+    "name": "all",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "ssg/default": "enabled",
+      "ssg/button": "enabled",
+      "emart/default": "enabled",
+      "site": "enabled",
+      "delivery": "enabled",
+      "service": "enabled",
+      "promotion": "enabled",
+      "payment": "enabled"
+    },
+    "group": "mall"
+  },
+  {
     "id": "b1ba454ac69f35b98fc73503297f449497d7764d",
     "name": "ssg",
     "$figmaStyleReferences": {
@@ -840,7 +856,6 @@
       "ssg/button": "enabled",
       "delivery": "enabled"
     },
-    "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:0",
     "$figmaVariableReferences": {
@@ -1087,7 +1102,8 @@
       "border_width.1": "09a5800777940bd2588c81459e29e2f461eed922",
       "border_width.2": "abb53a65fe1953e46c2fcf532997aaba6b9c7239",
       "border_width.none": "5b605723e192f4dc9a4a00b3570e846bfde7bf43"
-    }
+    },
+    "group": "mall"
   },
   {
     "id": "249f6baf7a755dce2740917d6d725703daf612f2",
@@ -1340,7 +1356,6 @@
       "delivery": "enabled",
       "emart/default": "enabled"
     },
-    "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:1",
     "$figmaVariableReferences": {
@@ -1425,7 +1440,8 @@
       "border_width.1": "09a5800777940bd2588c81459e29e2f461eed922",
       "border_width.2": "abb53a65fe1953e46c2fcf532997aaba6b9c7239",
       "border_width.none": "5b605723e192f4dc9a4a00b3570e846bfde7bf43"
-    }
+    },
+    "group": "mall"
   },
   {
     "id": "ae94825f8658fd976274d9926d4670565ef03605",
@@ -1437,7 +1453,6 @@
       "delivery": "enabled",
       "site": "enabled"
     },
-    "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:2",
     "$figmaVariableReferences": {
@@ -1698,7 +1713,8 @@
       "border_width.1": "09a5800777940bd2588c81459e29e2f461eed922",
       "border_width.2": "abb53a65fe1953e46c2fcf532997aaba6b9c7239",
       "border_width.none": "5b605723e192f4dc9a4a00b3570e846bfde7bf43"
-    }
+    },
+    "group": "mall"
   },
   {
     "id": "ebebbe0f26537a342f77ff2d44ae3f48df89f26b",
@@ -1710,7 +1726,6 @@
       "delivery": "enabled",
       "site": "enabled"
     },
-    "group": "mall",
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:3",
     "$figmaVariableReferences": {
@@ -1971,7 +1986,8 @@
       "border_width.1": "09a5800777940bd2588c81459e29e2f461eed922",
       "border_width.2": "abb53a65fe1953e46c2fcf532997aaba6b9c7239",
       "border_width.none": "5b605723e192f4dc9a4a00b3570e846bfde7bf43"
-    }
+    },
+    "group": "mall"
   },
   {
     "id": "98d04d41c5dc445061e5760af66daddc16f8b7ca",
@@ -1982,7 +1998,6 @@
       "ssg/button": "enabled",
       "service": "enabled"
     },
-    "group": "service",
     "$figmaCollectionId": "VariableCollectionId:13165:58758",
     "$figmaModeId": "13165:4",
     "$figmaVariableReferences": {
@@ -2220,7 +2235,8 @@
       "border_width.1": "c012bb74d5b8dd00e19362a539e829dca1806231",
       "border_width.2": "445da1efa880a9dd1a8c00f6acc8f422afb9976c",
       "border_width.none": "71b60e6b5c7e981172eab88e69fe62fe5bf10e54"
-    }
+    },
+    "group": "service"
   },
   {
     "id": "7a85ad96eee06fa89cc996c8b22dd8c70caed1fd",
@@ -2231,7 +2247,6 @@
       "ssg/button": "enabled",
       "service": "enabled"
     },
-    "group": "service",
     "$figmaCollectionId": "VariableCollectionId:13165:58758",
     "$figmaModeId": "13165:5",
     "$figmaVariableReferences": {
@@ -2469,6 +2484,7 @@
       "border_width.1": "c012bb74d5b8dd00e19362a539e829dca1806231",
       "border_width.2": "445da1efa880a9dd1a8c00f6acc8f422afb9976c",
       "border_width.none": "71b60e6b5c7e981172eab88e69fe62fe5bf10e54"
-    }
+    },
+    "group": "service"
   }
 ]
