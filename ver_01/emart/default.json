@@ -154,31 +154,31 @@
         "type": "color"
       },
       "gray100": {
-        "value": "#FAFBFC",
+        "value": "#fafbfc",
         "type": "color"
       },
       "gray150": {
-        "value": "#F3F5F7",
+        "value": "#f3f5f7",
         "type": "color"
       },
       "gray200": {
-        "value": "#EDF0F3",
+        "value": "#edf0f3",
         "type": "color"
       },
       "gray300": {
-        "value": "#E1E5E9",
+        "value": "#e1e5e9",
         "type": "color"
       },
       "gray350": {
-        "value": "#C9CFD5",
+        "value": "#c9cfd5",
         "type": "color"
       },
       "gray400": {
-        "value": "#8B96A1",
+        "value": "#8b96a1",
         "type": "color"
       },
       "gray500": {
-        "value": "#7B8895",
+        "value": "#7b8895",
         "type": "color"
       },
       "gray600": {
@@ -186,15 +186,15 @@
         "type": "color"
       },
       "gray700": {
-        "value": "#5A6672",
+        "value": "#5a6672",
         "type": "color"
       },
       "gray800": {
-        "value": "#383F45",
+        "value": "#383f45",
         "type": "color"
       },
       "gray900": {
-        "value": "#262B2E",
+        "value": "#262b2e",
         "type": "color"
       },
       "dim": {
@@ -232,7 +232,7 @@
     },
     "semantic": {
       "warning": {
-        "value": "#FF5F04",
+        "value": "#ff5f04",
         "type": "color",
         "description": "- 안내 문구 중 경고의 성격을 띄고 있는 문구\n- 에러를 상태를 나타내는 경우"
       },
@@ -242,12 +242,12 @@
         "description": "- 경고 문구중 금전적인 손해가 발생하는 부분"
       },
       "positive": {
-        "value": "#178AFF",
+        "value": "#178aff",
         "type": "color",
         "description": "- 긍정적인 의미의 컬러\n- 링크버튼(텍스트버튼)"
       },
       "success": {
-        "value": "#07A740",
+        "value": "#07a740",
         "type": "color",
         "description": "- 성공 의미의 컬러"
       }
