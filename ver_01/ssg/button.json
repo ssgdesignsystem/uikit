@@ -524,6 +524,43 @@
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_outlineicon_tertiary_gray_02"
           }
         }
+      },
+      "icon": {
+        "primary_01": {
+          "icon": {
+            "value": "{ssg.accent.primary}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_icon_primary_01"
+          }
+        },
+        "secondary_01": {
+          "icon": {
+            "value": "{ssg.netural.black}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_icon_secondary_01"
+          }
+        },
+        "secondary_02": {
+          "icon": {
+            "value": "{ssg.accent.secondary}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_icon_secondary_02"
+          }
+        },
+        "tertiary_gray_01": {
+          "icon": {
+            "value": "{ssg.netural.gray700}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_icon_tertiary_gray_01"
+          }
+        },
+        "tertiary_gray_02": {
+          "icon": {
+            "value": "{ssg.netural.gray500}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_icon_tertiary_gray_02"
+          }
+        }
       }
     }
   }
