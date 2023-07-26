@@ -524,6 +524,80 @@
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_03"
           }
         }
+      },
+      "outlineicon": {
+        "primary_01": {
+          "outline": {
+            "value": "{emart.netural.gray300}",
+            "type": "color",
+            "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_primary_01\n\n"
+          },
+          "icon": {
+            "value": "{emart.accent.primary}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_primary_01"
+          }
+        },
+        "secondary_01": {
+          "outline": {
+            "value": "{emart.netural.gray300}",
+            "type": "color",
+            "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_01\n"
+          },
+          "icon": {
+            "value": "{emart.netural.gray900}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_01"
+          }
+        },
+        "secondary_02": {
+          "outline": {
+            "value": "{emart.netural.gray300}",
+            "type": "color",
+            "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_02\n"
+          },
+          "icon": {
+            "value": "{emart.accent.secondary1}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_02"
+          }
+        },
+        "secondary_03": {
+          "outline": {
+            "value": "{emart.netural.gray300}",
+            "type": "color",
+            "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_03\n"
+          },
+          "icon": {
+            "value": "{emart.accent.secondary2}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_03"
+          }
+        },
+        "tertiary_gray_01": {
+          "outline": {
+            "value": "{emart.netural.gray700}",
+            "type": "color",
+            "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_01\n"
+          },
+          "icon": {
+            "value": "{emart.netural.gray700}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_01"
+          }
+        },
+        "tertiary_gray_02": {
+          "outline": {
+            "value": "{emart.netural.gray500}",
+            "type": "color",
+            "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_02\n"
+          },
+          "icon": {
+            "value": "{emart.netural.gray500}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_02"
+          }
+        }
       }
     }
   }
