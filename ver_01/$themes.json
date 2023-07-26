@@ -11,7 +11,8 @@
       "delivery": "enabled",
       "service": "enabled",
       "promotion": "enabled",
-      "payment": "enabled"
+      "payment": "enabled",
+      "emart/button": "enabled"
     },
     "group": "mall"
   },
@@ -1354,7 +1355,8 @@
     },
     "selectedTokenSets": {
       "delivery": "enabled",
-      "emart/default": "enabled"
+      "emart/default": "enabled",
+      "emart/button": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:13165:58455",
     "$figmaModeId": "13165:1",

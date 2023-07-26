@@ -3,6 +3,7 @@
     "ssg/default",
     "ssg/button",
     "emart/default",
+    "emart/button",
     "site",
     "delivery",
     "service",
