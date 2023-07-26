@@ -424,6 +424,44 @@
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_text_tertiary_gray_02"
           }
         }
+      },
+      "solidicon": {
+        "opacity_01": {
+          "fill": {
+            "value": "{ssg.netural.dim.black_alpha80}",
+            "type": "color",
+            "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : ssg_btn_solidicon_opacity_01\n\n"
+          },
+          "icon": {
+            "value": "{ssg.netural.white}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_solidicon_opacity_01"
+          }
+        },
+        "opacity_02": {
+          "fill": {
+            "value": "{ssg.netural.dim.black_alpha45}",
+            "type": "color",
+            "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : ssg_btn_solidicon_opacity_02\n\n"
+          },
+          "icon": {
+            "value": "{ssg.netural.white}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_solidicon_opacity_02"
+          }
+        },
+        "opacity_03": {
+          "fill": {
+            "value": "{ssg.netural.dim.black_alpha20}",
+            "type": "color",
+            "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : ssg_btn_solidicon_opacity_03\n\n"
+          },
+          "icon": {
+            "value": "{ssg.netural.white}",
+            "type": "color",
+            "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : ssg_btn_solidicon_opacity_03"
+          }
+        }
       }
     }
   }
