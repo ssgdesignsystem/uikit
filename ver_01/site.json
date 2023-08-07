@@ -79,6 +79,14 @@
       "type": "color",
       "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
     },
+    "wconcept_primary": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "ssglanders_primary": {
+      "value": "#ce0e2d",
+      "type": "color"
+    },
     "brand(개발등록x)": {
       "casamia_primary": {
         "value": "#ffcf02",
