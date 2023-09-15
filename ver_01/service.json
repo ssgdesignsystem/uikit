@@ -30,6 +30,15 @@
       "type": "color",
       "description": "선물하기"
     },
+    "coupon-primary": {
+      "value": "linear-gradient(204deg, #BE3FFA 18.51%, #F43479 68.83%, #FC6C40 91.32%)",
+      "type": "color"
+    },
+    "coupon-secondary": {
+      "value": "linear-gradient(15deg, #002041 44.59%, #497CFF 103.46%)",
+      "type": "color",
+      "description": "유니버스 클럽 쿠폰 전용"
+    },
     "foodmarket_primary1": {
       "value": "#f04c38",
       "type": "color",
