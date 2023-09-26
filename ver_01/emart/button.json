@@ -9,12 +9,12 @@
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_primary_01\n\n"
           },
           "text": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_primary_01"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_primary_01"
           }
@@ -38,17 +38,17 @@
         },
         "secondary_01": {
           "fill": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_01\n\n"
           },
           "text": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_01"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_01"
           }
@@ -60,12 +60,12 @@
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_02\n\n"
           },
           "text": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_02"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_02"
           }
@@ -94,12 +94,12 @@
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_04\n\n"
           },
           "text": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_04"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_secondary_04"
           }
@@ -123,102 +123,102 @@
         },
         "tertiary_gray_01": {
           "fill": {
-            "value": "{emart.natural.gray800}",
+            "value": "{emart.neutral.gray800}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_01\n\n"
           },
           "text": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_01"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_01"
           }
         },
         "tertiary_gray_02": {
           "fill": {
-            "value": "{emart.natural.gray200}",
+            "value": "{emart.neutral.gray200}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_02\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_02"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_02"
           }
         },
         "tertiary_gray_03": {
           "fill": {
-            "value": "{emart.natural.gray200}",
+            "value": "{emart.neutral.gray200}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_03\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_03"
           },
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_03"
           }
         },
         "tertiary_gray_04": {
           "fill": {
-            "value": "{emart.natural.gray150}",
+            "value": "{emart.neutral.gray150}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_04\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_04"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_04"
           }
         },
         "tertiary_gray_05": {
           "fill": {
-            "value": "{emart.natural.gray150}",
+            "value": "{emart.neutral.gray150}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_05\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_05"
           },
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_gray_05"
           }
         },
         "tertiary_white_01": {
           "fill": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_white_01\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_white_01"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solid_tertiary_white_01"
           }
@@ -244,7 +244,7 @@
         },
         "primary_02": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_primary_02\n\n"
           },
@@ -261,51 +261,51 @@
         },
         "secondary_01": {
           "outline": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_01\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_01"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_01"
           }
         },
         "secondary_02": {
           "outline": {
-            "value": "{emart.natural.gray350}",
+            "value": "{emart.neutral.gray350}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_02\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_02"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_02"
           }
         },
         "secondary_03": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_03\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_03"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_secondary_03"
           }
@@ -346,68 +346,68 @@
         },
         "tertiary_gray_01": {
           "outline": {
-            "value": "{emart.natural.gray350}",
+            "value": "{emart.neutral.gray350}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_01\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_01"
           },
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_01"
           }
         },
         "tertiary_gray_02": {
           "outline": {
-            "value": "{emart.natural.gray350}",
+            "value": "{emart.neutral.gray350}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_02\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_02"
           },
           "icon": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_02"
           }
         },
         "tertiary_gray_03": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_03\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_03"
           },
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_03"
           }
         },
         "tertiary_gray_04": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_04\n\n"
           },
           "text": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_04"
           },
           "icon": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outline_tertiary_gray_04"
           }
@@ -428,12 +428,12 @@
         },
         "secondary_01": {
           "text": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_text_secondary_01"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_text_secondary_01"
           }
@@ -464,24 +464,24 @@
         },
         "tertiary_gray_01": {
           "text": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_text_tertiary_gray_01"
           },
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_text_tertiary_gray_01"
           }
         },
         "tertiary_gray_02": {
           "text": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 텍스트컬러\n- 버튼 컬러세트명 : emart_btn_text_tertiary_gray_02"
           },
           "icon": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_text_tertiary_gray_02"
           }
@@ -490,36 +490,36 @@
       "solidicon": {
         "opacity_01": {
           "fill": {
-            "value": "{emart.natural.dim.black_alpha80}",
+            "value": "{emart.neutral.dim.black_alpha80}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_01\n\n"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_01"
           }
         },
         "opacity_02": {
           "fill": {
-            "value": "{emart.natural.dim.black_alpha45}",
+            "value": "{emart.neutral.dim.black_alpha45}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_02\n\n"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_02"
           }
         },
         "opacity_03": {
           "fill": {
-            "value": "{emart.natural.dim.black_alpha20}",
+            "value": "{emart.neutral.dim.black_alpha20}",
             "type": "color",
             "description": "- 버튼 면컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_03\n\n"
           },
           "icon": {
-            "value": "{emart.natural.white}",
+            "value": "{emart.neutral.white}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_solidicon_opacity_03"
           }
@@ -528,7 +528,7 @@
       "outlineicon": {
         "primary_01": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_primary_01\n\n"
           },
@@ -540,19 +540,19 @@
         },
         "secondary_01": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_01\n"
           },
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_01"
           }
         },
         "secondary_02": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_02\n"
           },
@@ -564,7 +564,7 @@
         },
         "secondary_03": {
           "outline": {
-            "value": "{emart.natural.gray300}",
+            "value": "{emart.neutral.gray300}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_secondary_03\n"
           },
@@ -576,24 +576,24 @@
         },
         "tertiary_gray_01": {
           "outline": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_01\n"
           },
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_01"
           }
         },
         "tertiary_gray_02": {
           "outline": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 아웃라인컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_02\n"
           },
           "icon": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_outlineicon_tertiary_gray_02"
           }
@@ -609,7 +609,7 @@
         },
         "secondary_01": {
           "icon": {
-            "value": "{emart.natural.gray900}",
+            "value": "{emart.neutral.gray900}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_icon_secondary_01"
           }
@@ -630,14 +630,14 @@
         },
         "tertiary_gray_01": {
           "icon": {
-            "value": "{emart.natural.gray700}",
+            "value": "{emart.neutral.gray700}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_icon_tertiary_gray_01"
           }
         },
         "tertiary_gray_02": {
           "icon": {
-            "value": "{emart.natural.gray500}",
+            "value": "{emart.neutral.gray500}",
             "type": "color",
             "description": "- 버튼 아이콘컬러\n- 버튼 컬러세트명 : emart_btn_icon_tertiary_gray_02"
           }

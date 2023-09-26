@@ -40,7 +40,7 @@
         "description": "- 공통 영역의 툴팁\n- 프로그레스 바\n- APP : 그라데이션 컬러 정의가 불가로 이미지 적용"
       }
     },
-    "natural": {
+    "neutral": {
       "white": {
         "value": "#ffffff",
         "type": "color"
