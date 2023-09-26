@@ -76,19 +76,14 @@
       "description": "- 오늘출발\n"
     },
     "mobilecoupon": {
-      "value": "#50e3c2",
+      "value": "#9ee5d2",
       "type": "color",
       "description": "- 모바일쿠폰\n- 쓱콘\n- 기프티콘"
     },
-    "pickup_emart": {
-      "value": "#ffcf02",
+    "pickup": {
+      "value": "#e1d2c8",
       "type": "color",
-      "description": "- 매장픽업(이마트)\n"
-    },
-    "pickup_department": {
-      "value": "#d6d2c4",
-      "type": "color",
-      "description": "- 매장픽업(백화점)\n"
+      "description": "매장픽업"
     }
   }
 }
