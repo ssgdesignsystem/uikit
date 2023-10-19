@@ -30,6 +30,11 @@
       "type": "color",
       "description": "선물하기"
     },
+    "luxury_primary": {
+      "value": "#0B503D",
+      "type": "color",
+      "$extensions": {}
+    },
     "coupon-primary": {
       "value": "linear-gradient(204deg, #BE3FFA 18.51%, #F43479 68.83%, #FC6C40 91.32%)",
       "type": "color"
