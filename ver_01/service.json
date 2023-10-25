@@ -32,8 +32,7 @@
     },
     "luxury_primary": {
       "value": "#0B503D",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "coupon-primary": {
       "value": "linear-gradient(204deg, #BE3FFA 18.51%, #F43479 68.83%, #FC6C40 91.32%)",
