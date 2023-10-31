@@ -259,7 +259,31 @@
   },
   "gothic": {
     "value": "Pretendard",
-    "type": "fontFamilies"
+    "type": "fontFamilies",
+    "26 bold (6xl)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "Bold",
+        "fontSize": "26"
+      },
+      "type": "typography"
+    },
+    "26 semibold (6xl)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "SemiBold",
+        "fontSize": "26"
+      },
+      "type": "typography"
+    },
+    "24 bold (5xl)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "Bold",
+        "fontSize": "24"
+      },
+      "type": "typography"
+    }
   },
   "serif": {
     "value": "Playfair Display",
