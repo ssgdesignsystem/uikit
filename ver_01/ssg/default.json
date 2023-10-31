@@ -256,5 +256,13 @@
       "value": "95%",
       "type": "opacity"
     }
+  },
+  "gothic": {
+    "value": "Pretendard",
+    "type": "fontFamilies"
+  },
+  "serif": {
+    "value": "Playfair Display",
+    "type": "fontFamilies"
   }
 }
