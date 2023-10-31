@@ -287,6 +287,22 @@
   },
   "serif": {
     "value": "Playfair Display",
-    "type": "fontFamilies"
+    "type": "fontFamilies",
+    " 26 semibold (5xl)": {
+      "value": {
+        "fontFamily": "{serif}",
+        "fontWeight": "SemiBold",
+        "fontSize": "26"
+      },
+      "type": "typography"
+    },
+    "24 semibold (5xl)": {
+      "value": {
+        "fontFamily": "{serif}",
+        "fontWeight": "SemiBold",
+        "fontSize": "24"
+      },
+      "type": "typography"
+    }
   }
 }
