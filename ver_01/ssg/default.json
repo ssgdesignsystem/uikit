@@ -299,6 +299,14 @@
         "fontSize": "26"
       },
       "type": "typography"
+    },
+    "gothic_26bold(6xl)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "Bold",
+        "fontSize": "26px"
+      },
+      "type": "typography"
     }
   },
   "serif": {
