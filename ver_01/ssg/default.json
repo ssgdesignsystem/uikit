@@ -266,8 +266,7 @@
         "fontWeight": "Bold",
         "fontSize": "26"
       },
-      "type": "typography",
-      "description": "gothic.26 bold (6xl) 추가"
+      "type": "typography"
     },
     "26 semibold (6xl)": {
       "value": {
@@ -282,6 +281,14 @@
         "fontFamily": "{gothic}",
         "fontWeight": "Bold",
         "fontSize": "24"
+      },
+      "type": "typography"
+    },
+    "26 bold(6xl)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "Bold",
+        "fontSize": "26"
       },
       "type": "typography"
     }
