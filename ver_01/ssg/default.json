@@ -416,6 +416,16 @@
       "type": "typography"
     }
   },
+  "gothic3": {
+    "12bold(xs)": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "{Bold}",
+        "fontSize": "{13}"
+      },
+      "type": "typography"
+    }
+  },
   "Auto": {
     "value": "Auto",
     "type": "lineHeights"
