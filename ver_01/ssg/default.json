@@ -1,8 +1,4 @@
 {
-  "0": {
-    "value": "0",
-    "type": "paragraphSpacing"
-  },
   "10": {
     "value": "10",
     "type": "fontSizes",
@@ -426,20 +422,18 @@
       "type": "typography"
     }
   },
-  "Auto": {
-    "value": "Auto",
-    "type": "lineHeights"
+  "gothic4": {
+    "10bold(xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{10}"
+      },
+      "type": "typography"
+    }
   },
-  "0px": {
-    "value": "0px",
-    "type": "letterSpacing"
-  },
-  "textcase_none": {
-    "value": "none",
-    "type": "textCase"
-  },
-  "textdecoration_none": {
-    "value": "none",
-    "type": "textDecoration"
+  "Pretendard": {
+    "value": "Pretendard",
+    "type": "fontFamilies"
   }
 }
