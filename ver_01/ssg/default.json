@@ -1,4 +1,64 @@
 {
+  "10": {
+    "value": "10",
+    "type": "fontSizes",
+    "description": "3xs"
+  },
+  "11": {
+    "value": "11",
+    "type": "fontSizes",
+    "description": "2xs"
+  },
+  "12": {
+    "value": "12",
+    "type": "fontSizes",
+    "description": "xs"
+  },
+  "13": {
+    "value": "13",
+    "type": "fontSizes",
+    "description": "sm"
+  },
+  "14": {
+    "value": "14",
+    "type": "fontSizes",
+    "description": "md"
+  },
+  "15": {
+    "value": "15",
+    "type": "fontSizes",
+    "description": "lg"
+  },
+  "16": {
+    "value": "16",
+    "type": "fontSizes",
+    "description": "xl"
+  },
+  "18": {
+    "value": "18",
+    "type": "fontSizes",
+    "description": "2xl"
+  },
+  "20": {
+    "value": "20",
+    "type": "fontSizes",
+    "description": "3xl"
+  },
+  "24": {
+    "value": "24",
+    "type": "fontSizes",
+    "description": "5xl"
+  },
+  "26": {
+    "value": "26",
+    "type": "fontSizes",
+    "description": "6xl"
+  },
+  "30": {
+    "value": "30",
+    "type": "fontSizes",
+    "description": "7xl"
+  },
   "ssg": {
     "brand": {
       "value": "linear-gradient(270deg, #be3ffa 0%, #f43479 40.65%, #f43479 58.41%, #fc6c40 100%)",
@@ -283,6 +343,22 @@
         "fontSize": "24"
       },
       "type": "typography"
+    },
+    "10 bold (3xs)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{10}"
+      },
+      "type": "typography"
+    },
+    "11 regular (2xs)": {
+      "value": {
+        "fontFamily": "{gothic}",
+        "fontWeight": "{Regular}",
+        "fontSize": "{11}"
+      },
+      "type": "typography"
     }
   },
   "serif": {
@@ -304,5 +380,21 @@
       },
       "type": "typography"
     }
+  },
+  "Regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "Medium": {
+    "value": "Medium",
+    "type": "fontWeights"
+  },
+  "SemiBold": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  },
+  "Bold": {
+    "value": "Bold",
+    "type": "fontWeights"
   }
 }
