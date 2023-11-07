@@ -317,75 +317,6 @@
       "type": "opacity"
     }
   },
-  "gothic": {
-    "value": "Pretendard",
-    "type": "fontFamilies",
-    "26 bold (6xl)": {
-      "value": {
-        "fontFamily": "{gothic}",
-        "fontWeight": "Bold",
-        "fontSize": "26"
-      },
-      "type": "typography"
-    },
-    "26 semibold (6xl)": {
-      "value": {
-        "fontFamily": "{gothic}",
-        "fontWeight": "SemiBold",
-        "fontSize": "26"
-      },
-      "type": "typography"
-    },
-    "24 bold (5xl)": {
-      "value": {
-        "fontFamily": "{gothic}",
-        "fontWeight": "Bold",
-        "fontSize": "24"
-      },
-      "type": "typography"
-    },
-    "10bold(3xs)": {
-      "value": {
-        "fontFamily": "{gothic}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{10}"
-      },
-      "type": "typography"
-    },
-    "11regular(2xs)": {
-      "value": {
-        "fontFamily": "{gothic}",
-        "fontWeight": "{Regular}",
-        "fontSize": "{11}",
-        "lineHeight": "{Auto}",
-        "letterSpacing": "{0px}",
-        "paragraphSpacing": "{0}",
-        "textDecoration": "{textdecoration_none}",
-        "textCase": "{textcase_none}"
-      },
-      "type": "typography"
-    }
-  },
-  "serif": {
-    "value": "Playfair Display",
-    "type": "fontFamilies",
-    " 26 semibold (5xl)": {
-      "value": {
-        "fontFamily": "{serif}",
-        "fontWeight": "SemiBold",
-        "fontSize": "26"
-      },
-      "type": "typography"
-    },
-    "24 semibold (5xl)": {
-      "value": {
-        "fontFamily": "{serif}",
-        "fontWeight": "SemiBold",
-        "fontSize": "24"
-      },
-      "type": "typography"
-    }
-  },
   "Regular": {
     "value": "Regular",
     "type": "fontWeights"
@@ -402,27 +333,7 @@
     "value": "Bold",
     "type": "fontWeights"
   },
-  "gothic2": {
-    "10bold(3xs)": {
-      "value": {
-        "fontFamily": "Pretendard",
-        "fontWeight": "Bold",
-        "fontSize": "10"
-      },
-      "type": "typography"
-    }
-  },
-  "gothic3": {
-    "12bold(xs)": {
-      "value": {
-        "fontFamily": "Pretendard",
-        "fontWeight": "{Bold}",
-        "fontSize": "{13}"
-      },
-      "type": "typography"
-    }
-  },
-  "gothic4": {
+  "gothic": {
     "10bold(xs)": {
       "value": {
         "fontFamily": "{Pretendard}",
@@ -435,5 +346,19 @@
   "Pretendard": {
     "value": "Pretendard",
     "type": "fontFamilies"
+  },
+  "Playfairdisplay": {
+    "value": "Playfair Display",
+    "type": "fontFamilies"
+  },
+  "serif": {
+    "13regular(sm)": {
+      "value": {
+        "fontFamily": "{Playfairdisplay}",
+        "fontWeight": "{Regular}",
+        "fontSize": "{13}"
+      },
+      "type": "typography"
+    }
   }
 }
