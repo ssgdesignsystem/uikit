@@ -396,5 +396,17 @@
   "Bold": {
     "value": "Bold",
     "type": "fontWeights"
+  },
+  "gothic2": {
+    "10(3xs)": {
+      "bold": {
+        "value": {
+          "fontFamily": "Pretendard",
+          "fontWeight": "Bold",
+          "fontSize": "10"
+        },
+        "type": "typography"
+      }
+    }
   }
 }
