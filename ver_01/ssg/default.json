@@ -344,7 +344,7 @@
       },
       "type": "typography"
     },
-    "10 bold (3xs)": {
+    "10bold(3xs)": {
       "value": {
         "fontFamily": "{gothic}",
         "fontWeight": "{Bold}",
@@ -352,7 +352,7 @@
       },
       "type": "typography"
     },
-    "11 regular (2xs)": {
+    "11regular(2xs)": {
       "value": {
         "fontFamily": "{gothic}",
         "fontWeight": "{Regular}",
