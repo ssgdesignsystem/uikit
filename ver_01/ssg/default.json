@@ -1,4 +1,8 @@
 {
+  "0": {
+    "value": "0",
+    "type": "paragraphSpacing"
+  },
   "10": {
     "value": "10",
     "type": "fontSizes",
@@ -356,7 +360,12 @@
       "value": {
         "fontFamily": "{gothic}",
         "fontWeight": "{Regular}",
-        "fontSize": "{11}"
+        "fontSize": "{11}",
+        "lineHeight": "{Auto}",
+        "letterSpacing": "{0px}",
+        "paragraphSpacing": "{0}",
+        "textDecoration": "{textdecoration_none}",
+        "textCase": "{textcase_none}"
       },
       "type": "typography"
     }
@@ -398,15 +407,29 @@
     "type": "fontWeights"
   },
   "gothic2": {
-    "10(3xs)": {
-      "bold": {
-        "value": {
-          "fontFamily": "Pretendard",
-          "fontWeight": "Bold",
-          "fontSize": "10"
-        },
-        "type": "typography"
-      }
+    "10bold(3xs)": {
+      "value": {
+        "fontFamily": "Pretendard",
+        "fontWeight": "Bold",
+        "fontSize": "10"
+      },
+      "type": "typography"
     }
+  },
+  "Auto": {
+    "value": "Auto",
+    "type": "lineHeights"
+  },
+  "0px": {
+    "value": "0px",
+    "type": "letterSpacing"
+  },
+  "textcase_none": {
+    "value": "none",
+    "type": "textCase"
+  },
+  "textdecoration_none": {
+    "value": "none",
+    "type": "textDecoration"
   }
 }
