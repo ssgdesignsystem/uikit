@@ -334,11 +334,67 @@
     "type": "fontWeights"
   },
   "gothic": {
-    "10bold(xs)": {
+    "10 bold (3xs)": {
       "value": {
         "fontFamily": "{Pretendard}",
         "fontWeight": "{Bold}",
         "fontSize": "{10}"
+      },
+      "type": "typography"
+    },
+    "11 regular (2xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{Regular}",
+        "fontSize": "{11}"
+      },
+      "type": "typography"
+    },
+    "11 medium (2xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{11}"
+      },
+      "type": "typography"
+    },
+    "11 bold (2xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{11}"
+      },
+      "type": "typography"
+    },
+    "12 regular (xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{Regular}",
+        "fontSize": "{12}"
+      },
+      "type": "typography"
+    },
+    "12 medium (xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{12}"
+      },
+      "type": "typography"
+    },
+    "12 semibold (xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{SemiBold}",
+        "fontSize": "{12}"
+      },
+      "type": "typography"
+    },
+    "12 bold (xs)": {
+      "value": {
+        "fontFamily": "{Pretendard}",
+        "fontWeight": "{SemiBold}",
+        "fontSize": "{12}"
       },
       "type": "typography"
     }

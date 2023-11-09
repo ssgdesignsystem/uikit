@@ -562,5 +562,57 @@
         }
       }
     }
+  },
+  "btn": {
+    "2xs": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "xs": {
+      "value": "24",
+      "type": "sizing"
+    }
+  },
+  "ssg_btn": {
+    "2xs": {
+      "rectangle": {
+        "medium": {
+          "ssg_btn_solid_primary_01": {
+            "value": {
+              "height": "{btn.2xs}",
+              "fill": "{ssg.btn.solid.primary_01.fill}",
+              "typography": "{gothic.11 medium (2xs)}"
+            },
+            "type": "composition"
+          },
+          "ssg_btn_solid_primary_02": {
+            "value": {
+              "height": "{btn.2xs}",
+              "fill": "{ssg.btn.solid.primary_02.fill}",
+              "typography": "{gothic.11 medium (2xs)}"
+            },
+            "type": "composition"
+          }
+        },
+        "bold": {
+          "ssg_btn_solid_primary_01": {
+            "value": {
+              "height": "{btn.2xs}",
+              "fill": "{ssg.btn.solid.primary_01.fill}",
+              "typography": "{gothic.11 bold (2xs)}"
+            },
+            "type": "composition"
+          },
+          "ssg_btn_solid_primary_02": {
+            "value": {
+              "height": "{btn.2xs}",
+              "fill": "{ssg.btn.solid.primary_02.fill}",
+              "typography": "{gothic.11 bold (2xs)}"
+            },
+            "type": "composition"
+          }
+        }
+      }
+    }
   }
 }
